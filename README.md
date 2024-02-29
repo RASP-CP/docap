@@ -27,7 +27,7 @@ Face Detection: Alternatively, a face detection system at the entrance can autom
 
 ## Technologies
 
-HTML, CSS (Tailwind CSS), JavaScript: Frontend development for the user interface.
+HTML, CSS, JavaScript: Frontend development for the user interface.
 
 Django, SQL: Backend development for managing user data, appointments, and doctor attendance.
 
