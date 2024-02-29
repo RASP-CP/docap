@@ -35,3 +35,13 @@ Django, SQL: Backend development for managing user data, appointments, and docto
 Visit the website and use the user dashboard to find doctors based on disease, availability, and fees.
 
 Doctors can log in to mark their attendance manually or use the face detection system for automatic attendance tracking.
+
+## Teammates
+
+Rohan Ajith Shankar
+
+Siva Kasi Viswanad
+
+Sathwik Akash Reddy K
+
+Siddharda N
