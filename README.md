@@ -3,7 +3,7 @@
 
 ## Introduction
 
-#### In healthcare, efficient appointment scheduling is crucial to ensure patients receive timely care while maximizing the utilization of doctor resources. This project proposes a digital solution that leverages advanced technologies to automate the process of identifying doctor availability and allocate appointment slots accordingly. The primary goal is to reduce patient wait times and improve the overall efficiency of the appointment scheduling process in hospitals.
+In healthcare, efficient appointment scheduling is crucial to ensure patients receive timely care while maximizing the utilization of doctor resources. This project proposes a digital solution that leverages advanced technologies to automate the process of identifying doctor availability and allocate appointment slots accordingly. The primary goal is to reduce patient wait times and improve the overall efficiency of the appointment scheduling process in hospitals.
 
 ## Features
 
@@ -18,3 +18,20 @@ Sorting Options: Doctors can be sorted based on appointment time or fees, allowi
 Booking and Registration: When a patient selects a doctor and appointment time, a login/register popup appears for user authentication.
 
 Time and Fee Adjustments: Booking time intervals are customizable (e.g., 5 or 10 minutes), with fees adjusted accordingly.
+
+## Doctor's Attendance
+
+Manual Attendance: Doctors have the option to manually mark their attendance using a separate dashboard.
+
+Face Detection: Alternatively, a face detection system at the entrance can automate entry and exit tracking, ensuring real-time doctor availability updates.
+
+## Technologies
+
+HTML, CSS (Tailwind CSS), JavaScript: Frontend development for the user interface.
+
+Django, SQL: Backend development for managing user data, appointments, and doctor attendance.
+
+## Usage
+Visit the website and use the user dashboard to find doctors based on disease, availability, and fees.
+
+Doctors can log in to mark their attendance manually or use the face detection system for automatic attendance tracking.
